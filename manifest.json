@@ -1,0 +1,27 @@
+{
+  "name": "Telegram Messenger",
+  "short_name": "Telegram",
+  "description": "Мессенджер в стиле Telegram",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1621",
+  "theme_color": "#17212b",
+  "lang": "ru",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMzN2FlZTIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxZTk2YzgiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMiIgZmlsbD0idXJsKCNnKSIvPjxwYXRoIGQ9Ik0xMTAgMjUzbDI4MC0xMTVjMTMtNSAyNCAzIDIwIDIybC00OCAyMjZjLTMgMTUtMTIgMTktMjQgMTJsLTY2LTQ5LTMyIDMxYy00IDQtNiA2LTEyIDZsNS02OCAxMjQtMTEyYzUtNS0yLTgtOC0zbC0xNTMgOTYtNjYtMjFjLTE0LTQtMTQtMTQgMy0yNXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMzN2FlZTIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxZTk2YzgiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMiIgZmlsbD0idXJsKCNnKSIvPjxwYXRoIGQ9Ik0xMTAgMjUzbDI4MC0xMTVjMTMtNSAyNCAzIDIwIDIybC00OCAyMjZjLTMgMTUtMTIgMTktMjQgMTJsLTY2LTQ5LTMyIDMxYy00IDQtNiA2LTEyIDZsNS02OCAxMjQtMTEyYzUtNS0yLTgtOC0zbC0xNTMgOTYtNjYtMjFjLTE0LTQtMTQtMTQgMy0yNXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
