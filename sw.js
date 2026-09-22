@@ -1,6 +1,6 @@
 /* Service Worker — кэширует файлы для офлайн-режима */
 
-const CACHE = 'tg-cache-v1';
+const CACHE = 'tg-cache-v2';
 const ASSETS = [
   './',
   './index.html',
